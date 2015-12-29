@@ -1,2 +1,7 @@
 .vscode
 typings/node/node.d.ts
+pipes/greet.txt
+pipes/greet.txt.gz
+pipes/greetcopy.txt
+streams/greet.txt
+streams/greetcopy.txt
